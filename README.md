@@ -89,3 +89,25 @@ This project is built for educational purposes as part of a final year project. 
 ## License
 
 _Add a LICENSE file (MIT recommended) — see suggestion in repo review._
+
+
+---
+
+# 👨‍💻 Author
+
+**Harshit Choudhary**
+
+📧 Email: harshitchoudhary.connect@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/harshit-choudhary-31683228b
+
+🐙 GitHub: https://github.com/Harshit786zs
+
+---
+
+# 🌟 If you found this project useful
+
+Give this repository a ⭐ on GitHub!
+
+Feedback and suggestions are always welcome.
+
